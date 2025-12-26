@@ -103,6 +103,7 @@ A comprehensive healthcare management platform built with Django REST Framework 
    ```
 
 The API will be available at `http://localhost:8000`
+the deployed backend : https://e-hospitality-system.onrender.com/api/
 
 ### Frontend Setup
 
@@ -302,3 +303,4 @@ For support, open an issue in the GitHub repository.
 ---
 
 Made with ❤️ for better healthcare management
+
